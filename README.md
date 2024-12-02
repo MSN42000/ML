@@ -2,40 +2,12 @@
 
 Collection of Jupyter notebooks for learning data analysis and machine learning with Python.
 
-## Repository Structure
-
-ml/
-
-│
-
-├── notebooks/
-
-│   ├── atelier0.ipynb
-
-│   ├── atelier1.ipynb
-
-│   ├── atelier2.ipynb
-
-│   ├── atelier2.1.ipynb
-
-│   └── atelier3.ipynb
-
-│
-
-├── scripts/
-
-│   ├── test_env.py
-
-│   └── test_env2.py
-
-│
-
-├── requirements.txt
-
-├── .gitignore
-
-└── README.md
-
+## Documentation
+The following PDF documents provide additional information and exercises for each atelier:
+- [Atelier 0](docs/atelier0.pdf): Introduction to Machine Learning
+- [Atelier 1](docs/atelier1.pdf): Data Preprocessing
+- [Atelier 2](docs/atelier2.pdf): Data Analysis with Pandas
+- [Atelier 3](docs/atelier3.pdf): Model Training and Evaluation
 
 ## Notebooks
 
