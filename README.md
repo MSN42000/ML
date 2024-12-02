@@ -53,12 +53,5 @@ pip install -r requirements.txt
 
 4. Launch Jupyter:
 ```bash
-text:requirements.txt
-pandas
-numpy
-matplotlib
-scikit-learn
-seaborn
-jupyter
+jupyter notebook
 ```
-
