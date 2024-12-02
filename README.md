@@ -3,6 +3,7 @@
 Collection of Jupyter notebooks for learning data analysis and machine learning with Python.
 
 ## Repository Structure
+
 ml/
 │
 ├── notebooks/
