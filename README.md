@@ -22,12 +22,6 @@ ml/
 
 │
 
-├── data/
-
-│   └── donnees_ventes.csv
-
-│
-
 ├── scripts/
 
 │   ├── test_env.py
