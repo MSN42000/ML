@@ -4,10 +4,10 @@ Collection of Jupyter notebooks for learning data analysis and machine learning 
 
 ## Documentation
 The following PDF documents provide additional information and exercises for each atelier:
-- [Atelier 0](docs/Atelier%200%20_%20Configuration%20de%20l'environnement%20de%20travail%20pour%20le%20Machine%20Learning.pdf): Configuration de l'environnement de travail pour le Machine Learning
-- [Atelier 1](docs/Atelier%201%20_%20Introduction%20au%20Machine%20Learning%20avec%20Python.pdf): Introduction au Machine Learning avec Python
-- [Atelier 2](docs/Atelier%202%20_%20Manipulation%20des%20données%20avec%20Pandas.pdf): Manipulation des données avec Pandas
-- [Atelier 3](docs/Atelier%203%20_%20Préparation%20des%20données%20pour%20le%20Machine%20Learning.pdf): Préparation des données pour le Machine Learning
+- [Atelier 0](docs/Atelier_0.pdf): Configuration de l'environnement de travail pour le Machine Learning
+- [Atelier 1](docs/Atelier_1.pdf): Introduction au Machine Learning avec Python
+- [Atelier 2](docs/Atelier_2.pdf): Manipulation des données avec Pandas
+- [Atelier 3](docs/Atelier_3.pdf): Préparation des données pour le Machine Learning
 
 ## Notebooks
 
