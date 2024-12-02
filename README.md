@@ -5,24 +5,43 @@ Collection of Jupyter notebooks for learning data analysis and machine learning 
 ## Repository Structure
 
 ml/
+
 │
+
 ├── notebooks/
+
 │   ├── atelier0.ipynb
+
 │   ├── atelier1.ipynb
+
 │   ├── atelier2.ipynb
+
 │   ├── atelier2.1.ipynb
+
 │   └── atelier3.ipynb
+
 │
+
 ├── data/
+
 │   └── donnees_ventes.csv
+
 │
+
 ├── scripts/
+
 │   ├── test_env.py
+
 │   └── test_env2.py
+
 │
+
 ├── requirements.txt
+
 ├── .gitignore
+
 └── README.md
+
 
 ## Notebooks
 
