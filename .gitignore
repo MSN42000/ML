@@ -16,6 +16,5 @@ ENV/
 # PyCharm
 .idea/
 
-# Data files
-*.csv
-!donnees_ventes.csv 
+# Ignore data directory
+data/
