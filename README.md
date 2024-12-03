@@ -9,6 +9,8 @@ The following PDF documents provide additional information and exercises for eac
 - [Atelier 2](docs/Atelier_2.pdf): Manipulation des données avec Pandas
 - [Atelier 3](docs/Atelier_3.pdf): Préparation des données pour le Machine Learning
 - [Atelier 4](docs/Atelier_4.pdf): Régression Linéaire avec Python
+- [Atelier 5](docs/Atelier_5.pdf): Advanced Data Visualization Techniques
+- [Atelier 6](docs/Atelier_6.pdf): Time Series Analysis with Python
 
 ## Notebooks
 
@@ -41,6 +43,16 @@ The following PDF documents provide additional information and exercises for eac
   - Using scikit-learn for linear regression
   - California Housing dataset application
 
+- **atelier5.ipynb**: Advanced Data Visualization
+  - Seaborn and Matplotlib techniques
+  - Interactive plots with Plotly
+  - Visualization best practices
+
+- **atelier6.ipynb**: Time Series Analysis
+  - Time series decomposition
+  - Forecasting with ARIMA models
+  - Seasonal and trend analysis
+
 ## Setup
 
 1. Create virtual environment: 
@@ -65,10 +77,12 @@ source ENV/bin/activate
 python -m pip install --upgrade pip
 ```
 
+
 4. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+
 
 5. Launch Jupyter:
 ```bash
