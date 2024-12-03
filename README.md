@@ -8,6 +8,7 @@ The following PDF documents provide additional information and exercises for eac
 - [Atelier 1](docs/Atelier_1.pdf): Introduction au Machine Learning avec Python
 - [Atelier 2](docs/Atelier_2.pdf): Manipulation des données avec Pandas
 - [Atelier 3](docs/Atelier_3.pdf): Préparation des données pour le Machine Learning
+- [Atelier 4](docs/Atelier_4.pdf): Régression Linéaire avec Python
 
 ## Notebooks
 
@@ -32,6 +33,13 @@ The following PDF documents provide additional information and exercises for eac
   - Random Forest classification
   - California Housing prediction
   - Model evaluation
+
+- **atelier4.ipynb**: Linear Regression with Python
+  - Building linear regression from scratch
+  - Visualization of regression lines
+  - Predictions with linear models
+  - Using scikit-learn for linear regression
+  - California Housing dataset application
 
 ## Setup
 
