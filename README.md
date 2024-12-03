@@ -52,17 +52,13 @@ source ENV/bin/activate
 ```
 
 
-3. Upgrade pip:
-```bash
-python -m pip install --upgrade pip
-```
-
-4. Install dependencies:
+3. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-5. Launch Jupyter:
+
+4. Launch Jupyter:
 ```bash
-python -m jupyter notebook
+jupyter notebook
 ```
